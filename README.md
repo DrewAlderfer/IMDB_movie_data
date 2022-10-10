@@ -21,7 +21,7 @@ Some questions I attempted to answer with this dataset were:
 ### Data Understanding
 
 The source for the data used was a publicly licensed sql database provided by the website IMDB. The database contained 8 tables:
-![table names](/images/tablenames.jpg)
+![table names](/images/tables.png)
 
 I started off the EDA process by pulling these table out of the sql database and storing them in Pandas DataFrame objects oragnized within a 
 python dict object. I was then able to start observing the structure of and relationships between the tables and 
